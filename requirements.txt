@@ -1,1 +1,2 @@
 pygame
+//python 64 bit else it will work slowly
